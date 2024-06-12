@@ -1,6 +1,6 @@
 # Credit_Card_Finance_Analysis
 
-## Problem Statement 
+## Problem Statement
 - In today's dynamic financial landscape, businesses face the challenge of effectively managing credit card transactions and customer data. Traditional methods of tracking and analysing this information are often time-consuming, prone to errors, and lack real-time insights. As a result, businesses struggle to detect different transaction activities, identify valuable customer segments, and make data-driven decisions to optimize their financial performance.
 - In light of these challenges, our organization recognized the necessity for a comprehensive Credit Card Financial Dashboard. This dashboard aims to streamline credit card transaction management, provide actionable insights into customer behaviour, and enhance detection capabilities. By leveraging innovative data analytics and visualization techniques, our dashboard empowers businesses to proactively mitigate risks, improve operational efficiency, and ultimately, safeguard their financial assets and reputation.
 
